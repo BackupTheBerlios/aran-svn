@@ -1,0 +1,34 @@
+<!-- ##### SECTION Title ##### -->
+aran
+
+<!-- ##### SECTION Short_Description ##### -->
+Library initialization.
+
+<!-- ##### SECTION Long_Description ##### -->
+<para>
+
+</para>
+
+<!-- ##### SECTION See_Also ##### -->
+<para>
+
+</para>
+
+<!-- ##### SECTION Stability_Level ##### -->
+
+
+<!-- ##### USER_FUNCTION AranZeroFunc ##### -->
+<para>
+
+</para>
+
+@devel: 
+
+
+<!-- ##### FUNCTION aran_init ##### -->
+<para>
+
+</para>
+
+
+
